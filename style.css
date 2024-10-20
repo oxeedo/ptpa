@@ -185,8 +185,8 @@ p {
     width: 70%; /* Adjust width of the line */    
    }
    .imgcontainer {
-    width: 75px; 
-    height: 75px; /* Adjust the height for better visibility */
+    width: 60px; 
+    height: 60px; /* Adjust the height for better visibility */
     position: absolute; /* Set the image to absolute position */
     top: -30px; /* Adjust the top position */
     left: 40px; /* Adjust the left position */    
