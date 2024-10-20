@@ -143,12 +143,14 @@ p {
     }
     .rewardcontainer{
         display: flex;
-        margin-top: 20px;      
+        margin-top: 20px;  
+        margin-bottom: 20px;    
     }
    .reward{
         flex: 1;
         padding-right:610px ;
         padding-left: 80px;
+        
         
    }
    .explore{
@@ -313,7 +315,8 @@ p {
 
     .columnleft, .columnright {
       width: 100%;
-      text-align: center;
+      text-align:left;
+      margin-left: 0;
     }
 
     .giftcard-main {
@@ -329,6 +332,12 @@ p {
 
     .newfeed, .rewardcontainer {
       text-align: left;
+    }
+    .reward{
+       padding-right: 0;
+       justify-content: left;
+       padding-left: 10px;
+       margin-bottom: 30px;
     }
 
     .maya {
